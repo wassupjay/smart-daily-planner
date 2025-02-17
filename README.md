@@ -1,4 +1,3 @@
-# smart-daily-planner
 # Smart Daily Planner
 
 A Python-based daily planner that provides personalized recommendations based on weather conditions and generates daily activity suggestions.
